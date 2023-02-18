@@ -1,0 +1,24 @@
+.inner {
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+
+}
+
+body {
+
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+input {
+    background-color: transparent !important;
+    color: #fff !important;
+
+}
+
+::placeholder {
+    color: gray !important;
+}
+.mm{
+    margin-right: 1000px !important;
+}
